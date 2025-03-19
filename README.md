@@ -38,9 +38,10 @@ We utilize **machine learning models, statistical analysis, and financial data**
 ## 📥 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/Systematic-Equity-Trading.git
-cd Systematic-Equity-Trading
-2️⃣ Install Dependencies
+git clone https://github.com/Poulami-Nandi/aplha_research.git
+cd aplha_research
+```
+### **2️⃣ Install Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
