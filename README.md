@@ -14,11 +14,24 @@ We utilize **machine learning models, statistical analysis, and financial data**
 ---
 
 ## 🏗️ Project Structure
-/Systematic-Equity-Trading ├── README.md ├── requirements.txt ├── data/ │ ├── AAPL_alpha_factors.csv │ ├── NVDA_alpha_factors.csv ├── src/ │ ├── alpha_factors.py │ ├── trading_strategy.py │ ├── model.py │ ├── backtesting.py ├── notebooks/ │ ├── alpha_research.ipynb │ ├── strategy_backtest.ipynb ├── results/ │ ├── strategy_performance.png │ ├── factor_heatmap.png └── tests/ ├── test_strategy.py └── test_model.py
-
-yaml
-Copy
-Edit
+```bash
+/aplha_research
+    ├── README.md
+    ├── requirements.txt
+    ├── src/
+    │   ├── alpha_factors.py
+    │   ├── trading_strategy.py
+    │   ├── model.py
+    │   └── backtesting.py
+    ├── notebooks/
+    │   ├── alpha_research.ipynb
+    ├── results/
+    │   ├── performance_metrics.csv
+    │   └── alpha_vs_benchmark.png
+    └── tests/
+        ├── test_strategy.py
+        └── test_model.py
+```
 
 ---
 
@@ -125,5 +138,6 @@ We welcome contributions! Please submit a Pull Request (PR).
 
 ---
 ## 📞 Contact
-For any inquiries, please reach out: 📧 Email: your.email@example.com
-🔗 LinkedIn: Your Profile
+For any inquiries, please reach out: 📧 Email: nandi.poulami91@gmail.com
+
+🔗 LinkedIn: [Your Profile](https://www.linkedin.com/in/poulami-nandi-a8a12917b/)
